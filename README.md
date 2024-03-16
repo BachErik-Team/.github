@@ -1,2 +1,4 @@
-# .github
-Not only @BachErik but also others work on repos that are on the BachErik team organisation. In addition, these projects are intended more for the public than others.
+# Projects
+
+* [BanSystem](https://app.gitbook.com/o/arvorhlF7dXm96tBxjmP/s/o9Q6kd8vKMYEMyL6UKwp/ "mention")
+* [MinePlot](https://app.gitbook.com/o/arvorhlF7dXm96tBxjmP/s/IjQzg7eK5VlFuq5cG3pW/ "mention")
